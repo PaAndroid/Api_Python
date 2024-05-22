@@ -9,4 +9,4 @@ A continuación, se detallan los pasos para configurar.
    - Question (varchar(255))
    - Aswer (varchar(255))
 
-3. En el archivo database.py: se debe cambiar el nombre del servidor del sql en la variable DATABASE_URL 
+3. En el archivo database.py: se debe cambiar el nombre del servidor del sql (@DESKTOP-I5VGBH8\\SQLEXPRESS2016) en la variable DATABASE_URL 
